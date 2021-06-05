@@ -1,27 +1,24 @@
 # PostmanApi
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.1.
+1.GET API
+![API GET](https://user-images.githubusercontent.com/80150887/120898027-0c050800-c5de-11eb-87a2-fee95610dbac.PNG)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+2.POST API
+![API POST](https://user-images.githubusercontent.com/80150887/120898043-19ba8d80-c5de-11eb-80a3-7237d3377627.PNG)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+3.PUT BY ID
+![PUT by id](https://user-images.githubusercontent.com/80150887/120898062-2c34c700-c5de-11eb-9239-d7ddc9b52eef.PNG)
 
-## Build
+4.GET BY ID
+![Get by id](https://user-images.githubusercontent.com/80150887/120898075-3bb41000-c5de-11eb-8e9f-2809ad4ec957.PNG)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+5.DELETE BY ID
+![Delete by id](https://user-images.githubusercontent.com/80150887/120898084-440c4b00-c5de-11eb-9cbd-b893ab1b5ac4.PNG)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+6.SERACH BY STRING
+![Search by String](https://user-images.githubusercontent.com/80150887/120898102-51293a00-c5de-11eb-9358-44459bed3d5b.PNG)
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
